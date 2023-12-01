@@ -12,4 +12,9 @@ title: Student Blog
 
 
 # Overview
-![example]({{site.baseurl}}/images/example.jpg)
+This is my all about me page, where I will explain my hobbies and interests and also display some pictures that I personally connect too. 
+
+# Hobbies and Interests
+-----> I have multiple hobbies and interests
+1. Soccer
+![soccer]({{site.baseurl}}/images/soccer.jpg)
